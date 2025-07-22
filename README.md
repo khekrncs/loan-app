@@ -5,4 +5,4 @@ Loan Application Service
 
 - Clone this repo
 - `chmod +x local-server/main`
-- ./main
+- `./main`
