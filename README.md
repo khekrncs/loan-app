@@ -97,7 +97,7 @@ Each API will demonstrate different aspects of multithreading and concurrency.
 - Returns 404 if application not found
 
 ## TODO
-- Complete LoanAppFormPosting, UnderwritingCallable and KYCVerificationCallable implementation
+- Complete `LoanAppFormPosting`, `UnderwritingCallable` and `KYCVerificationCallable` implementation
 - In `LoanApprovalService` you need to complete the  `processLoanApplication` function
 
 
